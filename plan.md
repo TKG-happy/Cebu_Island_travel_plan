@@ -40,13 +40,13 @@ flowchart TB
 - 夜
   - [スグボ・メルカド](https://www.ceburyugaku-master.com/activity/sugbo.html) @セブシティ
   - カジノ(ホテル) @セブシティ
-- 夜ご飯
-  - WIP
 
 ## 2日目(全日)
 - [オスロブ(ジンベエザメ)](https://philippinetravel.jp/areainfo/oslob/) @セブ島南東
 - [モアルボアル(イワシ)](https://philippinetravel.jp/areainfo/oslob/) @セブ島南西
 - [カワサン滝](https://philippinetravel.jp/kawasan-falls/) @セブ島南西
+
+**※TODO:もう少し詳しく調べてはみるけどこの辺は必須**
 
 ## 3日目(全日)
 - [SMシーサイドセブ](https://csp-cebu.com/navi/souvenirs/) @セブシティ
