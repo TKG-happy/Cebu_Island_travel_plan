@@ -1,7 +1,4 @@
-| 店名 | 参考サイト |
-|--------|------|
-| Jollibee(ジョリビー) | <img src="../images/meals/レチョン.png" alt="レチョンの画像" width="200" height="100"> |
-
+### 店
 - Jollibee(ジョリビー)
 - Mang Inasal(マン・イナサル)
 - Kuya J(クヤジェイ)
