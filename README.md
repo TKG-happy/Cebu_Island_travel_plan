@@ -7,3 +7,6 @@
 | memos |メモ用|
 | plans |各日の計画|
 | TODO.md |残タスク|
+
+# 地図
+https://maps.app.goo.gl/Dqh7rbfkoCMjzRxK7
