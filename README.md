@@ -1,0 +1,12 @@
+# フォルダ/ファイル構成について
+| フォルダ/ファイル名 | 用途 |
+|--------|------|
+| archives |保存用|
+| foods |食べ物系|
+| images |画像|
+| memos |メモ用|
+| plans |各日の計画|
+| TODO.md |残タスク|
+
+# 地図
+https://maps.app.goo.gl/Dqh7rbfkoCMjzRxK7
